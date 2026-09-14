@@ -12,4 +12,4 @@ npm run build
 npm run deploy
 ```
 
-The primary CTA is `tel:+918303807051`. The company domain uses Gandiva Labs branding; the product domain uses Karobaar branding. Four companies currently use the product internally; public launch and voice-agent integration are upcoming. Cloudflare custom domains and SPA fallback are configured in `wrangler.jsonc`.
+The primary CTA is `tel:+918303807051`. The company domain uses Gandiva Labs branding; the product domain uses Karobaar branding. 4+ companies currently use the product internally; public launch and voice-agent integration are upcoming. Cloudflare custom domains and SPA fallback are configured in `wrangler.jsonc`.
