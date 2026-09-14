@@ -2,9 +2,9 @@
 
 Vite + React + TanStack Router SPA, served as Cloudflare static assets.
 
-- `karobaar.gandivalabs.com/` — product landing
-- `karobaar.gandivalabs.com/privacy-policy` — complete existing privacy policy
-- `gandivalabs.com/in` — Gandiva Labs company page
+- `karobaar.gandivalabs.com/`: product landing
+- `karobaar.gandivalabs.com/privacy-policy`: complete existing privacy policy
+- `gandivalabs.com/in`: Gandiva Labs company page
 
 ```sh
 npm ci
