@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karobaar.gandivalabs.com/sitemap.xml
